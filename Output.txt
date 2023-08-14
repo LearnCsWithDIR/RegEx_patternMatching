@@ -1,0 +1,34 @@
+1 Search pattern is cricket
+------ Total 6 pattern match cases Found! ------
+Line 13, Index 9
+Line 17, Index 14
+Line 17, Index 69
+Line 22, Index 26
+Line 30, Index 8
+Line 33, Index 47
+
+2 Search pattern is ^ove
+------ Total 4 pattern match cases Found! ------
+Line 14, Index 50
+Line 16, Index 67
+Line 17, Index 63
+Line 25, Index 10
+
+3 Search pattern is $mps
+------ Total 2 pattern match cases Found! ------
+Line 3, Index 9
+Line 6, Index 85
+
+4 Search pattern is led?
+------ Total 10 pattern match cases Found! ------
+Line 1, Index 60
+Line 3, Index 70
+Line 4, Index 42
+Line 5, Index 29
+Line 6, Index 57
+Line 9, Index 59
+Line 14, Index 33
+Line 19, Index 35
+Line 26, Index 97
+Line 27, Index 22
+
